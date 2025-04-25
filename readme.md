@@ -1,6 +1,10 @@
-### 📈 5. Visualization
-- Simple chart overlays the training data
-- Shows where your input lands in the decision space
+### README Improvements Checklist (Apple Frameworks)
 
----
+- **CoreMotion**
+- **GameKit**
+- **Live Activities**
+- **CoreLocation**
+- **Messages**
+- **PencilKit**
+-  **Siri**
 
