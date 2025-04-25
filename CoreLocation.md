@@ -49,9 +49,6 @@ At its core, Core Location is a set of **Swift** and **Objective-C** APIs for re
 
 ### WWDC Videos
 
-- [Meet Core Location Monitor (WWDC 2023)](https://developer.apple.com/videos/play/wwdc2023/10147/)  
-  Discover the new monitor API for beacon and location event tracking in the background.
-
 - [Meet the Location Button (WWDC 2021)](https://developer.apple.com/videos/play/wwdc2021/10102/)  
   Learn how to use the `CLLocationButton` UI control to request location access with minimal friction.
 
